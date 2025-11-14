@@ -1,0 +1,8 @@
+--- Employee Salary Report ---
+Name (Type) 		 Salary
+------------------------------------
+Alice Smith (Full-Time)		 $55000.00
+Bob Johnson (Part-Time)		 $4000.00
+Charlie Davis (Full-Time)		 $72500.00
+Dana Lee (Part-Time)		 $1480.00
+------------------------------------
